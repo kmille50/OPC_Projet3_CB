@@ -4,7 +4,7 @@ L'agence "Santé publique France" a lancé un appel à projets pour trouver des 
 Ici nous avons choisi de faciliter les choix alimentaires des femmes enceintes pour alerter sur les produits à éviter et guider vers ceux recommendés. 
 
 ## Les données
-Le jeu de données Open Food Facts est disponible sur le site officiel. Les variables sont définies à cette adresse. 
+Le jeu de données Open Food Facts est disponible sur le site officiel. 
 Les champs sont séparés en quatre sections :
 Les informations générales sur la fiche du produit : nom, date de modification, etc.
 Un ensemble de tags : catégorie du produit, localisation, origine, etc.
